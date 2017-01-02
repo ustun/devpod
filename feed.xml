@@ -27,6 +27,41 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>vigo,amiga,commodore,development,yazılım,yazilim,software,python,ruby,php,django,rails,apple,mac,ipad,iphone,ios,applescript,shell,bash,textmate,6502,68000,bronx,demoscene,zombieboys</itunes:keywords>
     <item>
+      <title>#041 - Özgün Erdoğan</title>
+      <pubDate>Mon, 02 Jan 2017 05:30:00 -0000</pubDate>
+      <description>Citus Data şirketinin kurucusu ve CTO'su 
+Özgün Erdoğan’la PostgreSQL’den, 
+kendi geliştirdikleri özel extension’lardan ve Silikon Vadisi’nden bahsettik. 
+
+ Bölüm Notları 
+
+ 
+ GitHub 
+ YouTube</description>
+      <itunes:summary>Citus Data şirketinin kurucusu ve CTO'su 
+Özgün Erdoğan’la PostgreSQL’den, 
+kendi geliştirdikleri özel extension’lardan ve Silikon Vadisi’nden bahsettik. 
+
+ Bölüm Notları 
+
+ 
+ GitHub 
+ YouTube</itunes:summary>
+      <itunes:subtitle>Citus Data şirketinin kurucusu ve CTO'su 
+Özgün Erdoğan’la PostgreSQL’den, 
+kendi geliştirdikleri özel extension’lardan ve Silikon Vadisi’nden bahsettik. 
+
+ Bölüm Notları 
+
+ 
+ GitHub 
+ YouTube</itunes:subtitle>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/dl.dropboxusercontent.com/u/490540/PodCast/devPod/devPod%20%23%200041.m4a" length="30304212" type="audio/x-m4a"/>
+      <guid isPermaLink="false">http://devpod.org/2017/01/02/41/</guid>
+      <itunes:duration>01:01:42</itunes:duration>
+      <itunes:keywords>citus data,postgresql</itunes:keywords>
+    </item>
+    <item>
       <title>#040 - Fatih Acet</title>
       <pubDate>Mon, 13 Jun 2016 06:24:25 -0000</pubDate>
       <description>GitLab’den Fatih Acet ile sohbet ettik...</description>
